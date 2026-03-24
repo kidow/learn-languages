@@ -7,26 +7,37 @@
 ```text
 learn-languages/
 ├─ README.md
+├─ CLAUDE.md
 ├─ ENG/
+│  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ JPN/
+│  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ CHN/
+│  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ GER/
+│  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ FRE/
+│  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ SPA/
+│  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ POR/
+│  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ ARA/
+│  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ RUS/
+│  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 └─ TEMPLATE/
-   └─ study-note-template.md
+   ├─ study-note-template.md
+   └─ proficiency-template.md
 ```
 
 ## 운영 규칙

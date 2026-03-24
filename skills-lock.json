@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "language-learning": {
+      "source": "jackjin1997/clawforge",
+      "sourceType": "github",
+      "computedHash": "7c2798181991958e210513bdf4e69d909f6da088ce0c1902e3976c8be3003410"
+    },
+    "language-tutor": {
+      "source": "tatat/agents-playground",
+      "sourceType": "github",
+      "computedHash": "f91c243ce2ba047a5c2e40c49e8b8a49b77f67be2e77e2729fc1abd0231ab541"
+    }
+  }
+}

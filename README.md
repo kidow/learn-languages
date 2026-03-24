@@ -13,6 +13,18 @@ learn-languages/
 │  └─ REVIEW.md
 ├─ CHN/
 │  └─ REVIEW.md
+├─ GER/
+│  └─ REVIEW.md
+├─ FRE/
+│  └─ REVIEW.md
+├─ SPA/
+│  └─ REVIEW.md
+├─ POR/
+│  └─ REVIEW.md
+├─ ARA/
+│  └─ REVIEW.md
+├─ RUS/
+│  └─ REVIEW.md
 └─ TEMPLATE/
    └─ study-note-template.md
 ```

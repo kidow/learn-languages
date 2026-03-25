@@ -1,4 +1,4 @@
-# English Learning Roadmap
+# English Learning Curriculum
 
 > 작성일: 2026-03-25 | 현재 레벨: S2 (종합)
 > 목표: 일상 회화 + 영어 아티클 읽기 (여행, 대화, 업무) → S4 도달

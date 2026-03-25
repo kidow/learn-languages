@@ -9,30 +9,43 @@ learn-languages/
 ├─ README.md
 ├─ CLAUDE.md
 ├─ ENG/
+│  ├─ CURRICULUM.md
 │  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ JPN/
+│  ├─ CURRICULUM.md
 │  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ CHN/
+│  ├─ CURRICULUM.md
 │  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ GER/
+│  ├─ CURRICULUM.md
 │  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ FRE/
+│  ├─ CURRICULUM.md
 │  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ SPA/
+│  ├─ CURRICULUM.md
 │  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ POR/
+│  ├─ CURRICULUM.md
 │  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ ARA/
+│  ├─ CURRICULUM.md
 │  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 ├─ RUS/
+│  ├─ CURRICULUM.md
+│  ├─ PROFICIENCY.md
+│  └─ REVIEW.md
+├─ ITA/
+│  ├─ CURRICULUM.md
 │  ├─ PROFICIENCY.md
 │  └─ REVIEW.md
 └─ TEMPLATE/
@@ -43,9 +56,11 @@ learn-languages/
 ## 운영 규칙
 
 - 각 언어별로 폴더를 분리합니다. 예: 영어는 `ENG`
+- 각 언어 폴더의 `CURRICULUM.md`에는 해당 언어의 학습 순서, 단계별 목표, 우선 학습 항목을 정리합니다.
 - 학습 기록 파일명은 `YYYY-MM-DD-학습유형-주제.md` 형식을 사용합니다.
 - 학습 기록은 `.md` 파일 형태로 누적 관리합니다.
 - 각 학습 노트에는 최소한 `목표 / 배운 내용 / 헷갈린 점 / 복습 포인트`를 포함합니다.
+- 학습을 시작할 때는 해당 언어의 `CURRICULUM.md`와 `PROFICIENCY.md`를 먼저 확인합니다.
 - 각 언어 폴더의 `REVIEW.md`에는 자주 틀리는 표현, 다시 볼 문법, 복습 우선순위를 누적 정리합니다.
 - 주간 복습이 필요하면 `weekly-review-YYYY-Www.md` 형식의 파일을 추가합니다.
 
@@ -67,10 +82,11 @@ weekly-review-2026-W13.md
 
 ## 시작 가이드
 
-1. 언어 폴더를 선택합니다.
-2. 날짜·유형·주제로 새 Markdown 파일을 만듭니다.
-3. `TEMPLATE/study-note-template.md`를 복사해 내용을 채웁니다.
-4. 복습이 필요한 내용은 해당 언어의 `REVIEW.md`에 누적합니다.
+1. 언어 폴더를 선택한 뒤 `CURRICULUM.md`와 `PROFICIENCY.md`를 먼저 읽습니다.
+2. 해당 언어의 커리큘럼 순서와 현재 숙련도에 맞춰 학습 주제를 정합니다.
+3. 날짜·유형·주제로 새 Markdown 파일을 만듭니다.
+4. `TEMPLATE/study-note-template.md`를 복사해 내용을 채웁니다.
+5. 복습이 필요한 내용은 해당 언어의 `REVIEW.md`에 누적합니다.
 
 ## 설치된 스킬 (Skills)
 
